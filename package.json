@@ -22,6 +22,9 @@
     "buffer": "^4.9.1",
     "sjcl": "^1.0.3"
   },
+  "devDependencies": {
+    "react-native-windows": "^0.63.21"
+  },
   "author": "Mark Vayngrib <mark.vayngrib@lablz.com> (http://github.com/mvayngrib)",
   "license": "ISC"
 }
